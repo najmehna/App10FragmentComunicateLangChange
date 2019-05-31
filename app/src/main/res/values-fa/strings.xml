@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">برنامه چند زبانه من</string>
+    <string name="increment">اضافه</string>
+    <string name="decrement">کسر</string>
+    <string name="changeColor">تغییر رنگ</string>
+    <string name="changeLanguage">تغییر زبان</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App10(FragmentComunicate)</string>
+    <string name="increment">Increment</string>
+    <string name="decrement">Decrement</string>
+    <string name="changeColor">Change Color</string>
+    <string name="changeLanguage">Change Language</string>
+</resources>
